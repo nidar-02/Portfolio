@@ -1,4 +1,4 @@
 # Portfolio
 My personal portfilio
 
-check the master for the protfolio
+check the master for the portfolio
